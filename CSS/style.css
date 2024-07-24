@@ -1,0 +1,28 @@
+.container-fluid{
+    background-color: #b58ece;
+}
+/* CAROUSEL*/
+#carouselIndicators{
+    margin: 2%;
+}
+/* TARJETAS*/
+.container{
+    display:grid ;
+    justify-content: center ;
+    margin: 2%;
+}
+
+#card-florencia,#card-jesica{
+    margin:2%;
+    max-width: 540px;
+}
+
+/*FORMULARIO*/
+.form-group{
+   
+    margin: 5%;
+}
+/* ESTILO FOOTER*/
+.col-12{
+    text-align: center;
+}
